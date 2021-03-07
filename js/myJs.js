@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "10 10 02",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'http://fb.com/duongiavy';
+                    window.location = 'https://docs.google.com/document/d/1ZGhvcvZLP1tgXdVJNwH-N9s2zyxN9ydtoaZgVcsk6J4/edit#heading=h.p15x57myh95d';
                   }
             })
         }
