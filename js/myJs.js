@@ -16,7 +16,7 @@ function firstQuestion(){
     Swal.fire({
         title: 'Ê em ',
         text: '1 chút câu hỏi vào buổi tối',
-        imageUrl: 'img/saly.jpg',
+        imageUrl: 'img/4-hoa-hong-shutterstock_loki.jpg',
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("img/iput-bg.jpg")',
