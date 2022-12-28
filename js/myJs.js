@@ -14,8 +14,8 @@ function firstQuestion(){
     
     $('.content').hide();
     Swal.fire({
-        title: 'Ê em ',
-        text: '1 chút câu hỏi vào buổi tối',
+        title: 'hi ',
+        text: 'tớ hỏi cậu đc không?',
         imageUrl: 'img/4-hoa-hong-shutterstock_loki.jpg',
         imageWidth: 300,
         imageHeight: 300,
@@ -96,7 +96,7 @@ $('#yes').click(function() {
     var audio = new Audio('sound/tick.mp3');
     audio.play();
     Swal.fire({
-        title: 'Thế em muốn là gì ?',
+        title: 'vậy nhắn cho vũ đi nào',
         html: true,
         width: 900,
         padding: '3em',
@@ -109,7 +109,7 @@ $('#yes').click(function() {
               no-repeat
             `,
         showCancelButton: true,
-        cancelButtonText: "Dẹp mẹ ",
+        cancelButtonText: "nhắn cc",
         confirmButtonColor: '#3085d6',
         cancelButtonColor: '#d33',
         confirmButtonColor: '#fe8a71',
@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "10 10 02",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://docs.google.com/document/d/1ZGhvcvZLP1tgXdVJNwH-N9s2zyxN9ydtoaZgVcsk6J4/edit#heading=h.p15x57myh95d';
+                    window.location = 'https://www.facebook.com/dutchl4dy/';
                   }
             })
         }
